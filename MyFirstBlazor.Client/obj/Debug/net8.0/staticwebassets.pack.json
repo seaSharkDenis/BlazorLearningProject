@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/MyFirstBlazor.Client/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/MyFirstBlazor.Client/obj/Debug/net8.0/compressed/lljffg5984.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/MyFirstBlazor.Client/wwwroot/appsettings.Development.json",
+      "PackagePath": "staticwebassets/appsettings.Development.json"
+    },
+    {
+      "Id": "/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/MyFirstBlazor.Client/wwwroot/appsettings.json",
+      "PackagePath": "staticwebassets/appsettings.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MyFirstBlazor.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MyFirstBlazor.Client.props",
+      "PackagePath": "build\\MyFirstBlazor.Client.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyFirstBlazor.Client.props",
+      "PackagePath": "buildMultiTargeting\\MyFirstBlazor.Client.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyFirstBlazor.Client.props",
+      "PackagePath": "buildTransitive\\MyFirstBlazor.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
