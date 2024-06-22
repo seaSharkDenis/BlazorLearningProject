@@ -1,6 +1,8 @@
-namespace Data.Models;
-public class Tag
+﻿namespace Data.Models
 {
-    public string? Id { get; set; }
-    public string Name { get; set; } = string.Empty; 
+    public class Tag
+    {
+        public string? Id {  get; set; }
+        public string Name { get; set; } = string.Empty;
+    }
 }

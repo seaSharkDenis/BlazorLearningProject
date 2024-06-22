@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "bhtnAi3smC2TqfhjVG5IydKTRQNa+o60DuxSTE/ve+MYjJzUvBXZqXTokJmxNr07YHhxZyWkkGYpPtSi9u/drA==",
+  "dgSpecHash": "rbEeVq2PZdM=",
   "success": true,
-  "projectFilePath": "/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/Data/Data.csproj",
+  "projectFilePath": "C:\\Users\\denis\\source\\repos\\BlazorLearningProject\\MyBlog\\Data\\Data.csproj",
   "expectedPackageFiles": [
-    "/home/denis-ndiritu/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
-    "/home/denis-ndiritu/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
-    "/home/denis-ndiritu/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\denis\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

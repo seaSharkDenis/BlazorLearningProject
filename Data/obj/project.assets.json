@@ -53,6 +53,16 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "Data.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Data.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Data.Models.dll": {}
+        }
       }
     }
   },
@@ -165,44 +175,67 @@
         "microsoft.extensions.primitives.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Data.Models/1.0.0": {
+      "type": "project",
+      "path": "../Data.Models/Data.Models.csproj",
+      "msbuildProject": "../Data.Models/Data.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Data.Models >= 1.0.0",
       "Microsoft.Extensions.Options >= 8.0.2"
     ]
   },
   "packageFolders": {
-    "/home/denis-ndiritu/.nuget/packages/": {}
+    "C:\\Users\\denis\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/Data/Data.csproj",
+      "projectUniqueName": "C:\\Users\\denis\\source\\repos\\BlazorLearningProject\\MyBlog\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/Data/Data.csproj",
-      "packagesPath": "/home/denis-ndiritu/.nuget/packages/",
-      "outputPath": "/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/Data/obj/",
+      "projectPath": "C:\\Users\\denis\\source\\repos\\BlazorLearningProject\\MyBlog\\Data\\Data.csproj",
+      "packagesPath": "C:\\Users\\denis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\denis\\source\\repos\\BlazorLearningProject\\MyBlog\\Data\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/denis-ndiritu/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\denis\\source\\repos\\BlazorLearningProject\\MyBlog\\Data.Models\\Data.Models.csproj": {
+              "projectPath": "C:\\Users\\denis\\source\\repos\\BlazorLearningProject\\MyBlog\\Data.Models\\Data.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -230,7 +263,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

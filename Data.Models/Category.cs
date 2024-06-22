@@ -1,4 +1,5 @@
-namespace Data.Models;
+﻿namespace Data.Models;
+
 public class Category
 {
     public string? Id { get; set; }
