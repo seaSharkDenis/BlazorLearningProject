@@ -19,7 +19,7 @@ builder.Services.AddOptions<BlogApiJsonDirectAccessSetting>().
         options.CategoriesFolder = "Categories";
         options.CommentsFolder = "Comments";
     });
-builder.Services.AddScoped<IBlogApi, BlogApiJsonDirectAcess>();
+builder.Services.AddScoped<IBlogApi, BlogApiJsonDirectAccess>();
 
 var app = builder.Build();
 
@@ -43,6 +43,7 @@ app.UseAntiforgery();
 app.MapRazorComponents<App>()
     .AddInteractiveServerRenderMode()
     .AddInteractiveWebAssemblyRenderMode()
-    .AddAdditionalAssemblies(typeof(BlazorWebApp.Client._Imports).Assembly);
+    .AddAdditionalAssemblies(typeof(BlazorWebApp.Client._Imports).Assembly)
+.AddAdditionalAssemblies(typeof(SharedComponents.Pages.Home).Assembly);
 
 app.Run();

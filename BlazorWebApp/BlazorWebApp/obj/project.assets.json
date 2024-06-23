@@ -496,7 +496,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Microsoft.AspNetCore.Components.WebAssembly": "8.0.6"
+          "Microsoft.AspNetCore.Components.WebAssembly": "8.0.6",
+          "SharedComponents": "1.0.0"
         },
         "compile": {
           "bin/placeholder/BlazorWebApp.Client.dll": {}
@@ -527,6 +528,20 @@
         },
         "runtime": {
           "bin/placeholder/Data.Models.dll": {}
+        }
+      },
+      "SharedComponents/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Data.Models": "1.0.0",
+          "Microsoft.AspNetCore.Components.Web": "8.0.6"
+        },
+        "compile": {
+          "bin/placeholder/SharedComponents.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SharedComponents.dll": {}
         }
       }
     }
@@ -1354,6 +1369,11 @@
       "type": "project",
       "path": "../../Data.Models/Data.Models.csproj",
       "msbuildProject": "../../Data.Models/Data.Models.csproj"
+    },
+    "SharedComponents/1.0.0": {
+      "type": "project",
+      "path": "../../SharedComponents/SharedComponents.csproj",
+      "msbuildProject": "../../SharedComponents/SharedComponents.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1361,7 +1381,8 @@
       "BlazorWebApp.Client >= 1.0.0",
       "Data >= 1.0.0",
       "Data.Models >= 1.0.0",
-      "Microsoft.AspNetCore.Components.WebAssembly.Server >= 8.0.6"
+      "Microsoft.AspNetCore.Components.WebAssembly.Server >= 8.0.6",
+      "SharedComponents >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1371,11 +1392,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\denis\\source\\repos\\BlazorLearningProject\\BlazorWebApp\\BlazorWebApp\\BlazorWebApp.csproj",
+      "projectUniqueName": "C:\\BlazorLearningProject\\BlazorWebApp\\BlazorWebApp\\BlazorWebApp.csproj",
       "projectName": "BlazorWebApp",
-      "projectPath": "C:\\Users\\denis\\source\\repos\\BlazorLearningProject\\BlazorWebApp\\BlazorWebApp\\BlazorWebApp.csproj",
+      "projectPath": "C:\\BlazorLearningProject\\BlazorWebApp\\BlazorWebApp\\BlazorWebApp.csproj",
       "packagesPath": "C:\\Users\\denis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\denis\\source\\repos\\BlazorLearningProject\\BlazorWebApp\\BlazorWebApp\\obj\\",
+      "outputPath": "C:\\BlazorLearningProject\\BlazorWebApp\\BlazorWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1397,14 +1418,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\denis\\source\\repos\\BlazorLearningProject\\BlazorWebApp\\BlazorWebApp.Client\\BlazorWebApp.Client.csproj": {
-              "projectPath": "C:\\Users\\denis\\source\\repos\\BlazorLearningProject\\BlazorWebApp\\BlazorWebApp.Client\\BlazorWebApp.Client.csproj"
+            "C:\\BlazorLearningProject\\BlazorWebApp\\BlazorWebApp.Client\\BlazorWebApp.Client.csproj": {
+              "projectPath": "C:\\BlazorLearningProject\\BlazorWebApp\\BlazorWebApp.Client\\BlazorWebApp.Client.csproj"
             },
-            "C:\\Users\\denis\\source\\repos\\BlazorLearningProject\\Data.Models\\Data.Models.csproj": {
-              "projectPath": "C:\\Users\\denis\\source\\repos\\BlazorLearningProject\\Data.Models\\Data.Models.csproj"
+            "C:\\BlazorLearningProject\\Data.Models\\Data.Models.csproj": {
+              "projectPath": "C:\\BlazorLearningProject\\Data.Models\\Data.Models.csproj"
             },
-            "C:\\Users\\denis\\source\\repos\\BlazorLearningProject\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\denis\\source\\repos\\BlazorLearningProject\\Data\\Data.csproj"
+            "C:\\BlazorLearningProject\\Data\\Data.csproj": {
+              "projectPath": "C:\\BlazorLearningProject\\Data\\Data.csproj"
+            },
+            "C:\\BlazorLearningProject\\SharedComponents\\SharedComponents.csproj": {
+              "projectPath": "C:\\BlazorLearningProject\\SharedComponents\\SharedComponents.csproj"
             }
           }
         }

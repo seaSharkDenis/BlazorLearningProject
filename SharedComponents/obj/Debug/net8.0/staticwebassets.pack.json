@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\BlazorLearningProject\\SharedComponents\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SharedComponents.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SharedComponents.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\BlazorLearningProject\\SharedComponents\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\BlazorLearningProject\\SharedComponents\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SharedComponents.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SharedComponents.props",
+      "PackagePath": "build\\SharedComponents.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SharedComponents.props",
+      "PackagePath": "buildMultiTargeting\\SharedComponents.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SharedComponents.props",
+      "PackagePath": "buildTransitive\\SharedComponents.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

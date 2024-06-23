@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebApp", "BlazorWebApp\BlazorWebApp\BlazorWebApp.csproj", "{83273931-2E95-4A2A-A581-D9ABA9E86286}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWebApp", "BlazorWebApp\BlazorWebApp\BlazorWebApp.csproj", "{83273931-2E95-4A2A-A581-D9ABA9E86286}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebApp.Client", "BlazorWebApp\BlazorWebApp.Client\BlazorWebApp.Client.csproj", "{B56FE2EE-485A-4464-9F47-11F6AD130A63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWebApp.Client", "BlazorWebApp\BlazorWebApp.Client\BlazorWebApp.Client.csproj", "{B56FE2EE-485A-4464-9F47-11F6AD130A63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{1639C2C4-A65C-4E53-99CF-1E0633EE0C87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{1639C2C4-A65C-4E53-99CF-1E0633EE0C87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data.Models", "Data.Models\Data.Models.csproj", "{A2BEA481-0227-402C-BD53-A7958088FCAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data.Models", "Data.Models\Data.Models.csproj", "{A2BEA481-0227-402C-BD53-A7958088FCAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedComponents", "SharedComponents\SharedComponents.csproj", "{A3C629E4-B303-4347-A7AA-D65AFE75EE0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{A2BEA481-0227-402C-BD53-A7958088FCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2BEA481-0227-402C-BD53-A7958088FCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2BEA481-0227-402C-BD53-A7958088FCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C629E4-B303-4347-A7AA-D65AFE75EE0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C629E4-B303-4347-A7AA-D65AFE75EE0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C629E4-B303-4347-A7AA-D65AFE75EE0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C629E4-B303-4347-A7AA-D65AFE75EE0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

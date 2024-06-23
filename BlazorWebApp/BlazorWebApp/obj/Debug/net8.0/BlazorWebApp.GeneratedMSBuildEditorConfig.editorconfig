@@ -9,43 +9,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorWebApp
 build_property.RootNamespace = BlazorWebApp
-build_property.ProjectDir = C:\Users\denis\source\repos\BlazorLearningProject\BlazorWebApp\BlazorWebApp\
+build_property.ProjectDir = C:\BlazorLearningProject\BlazorWebApp\BlazorWebApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\denis\source\repos\BlazorLearningProject\BlazorWebApp\BlazorWebApp
+build_property.MSBuildProjectDirectory = C:\BlazorLearningProject\BlazorWebApp\BlazorWebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/denis/source/repos/BlazorLearningProject/BlazorWebApp/BlazorWebApp/Components/App.razor]
+[C:/BlazorLearningProject/BlazorWebApp/BlazorWebApp/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/source/repos/BlazorLearningProject/BlazorWebApp/BlazorWebApp/Components/Pages/Error.razor]
+[C:/BlazorLearningProject/BlazorWebApp/BlazorWebApp/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/source/repos/BlazorLearningProject/BlazorWebApp/BlazorWebApp/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/denis/source/repos/BlazorLearningProject/BlazorWebApp/BlazorWebApp/Components/Pages/Weather.razor]
+[C:/BlazorLearningProject/BlazorWebApp/BlazorWebApp/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/source/repos/BlazorLearningProject/BlazorWebApp/BlazorWebApp/Components/Routes.razor]
+[C:/BlazorLearningProject/BlazorWebApp/BlazorWebApp/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/source/repos/BlazorLearningProject/BlazorWebApp/BlazorWebApp/Components/_Imports.razor]
+[C:/BlazorLearningProject/BlazorWebApp/BlazorWebApp/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/denis/source/repos/BlazorLearningProject/BlazorWebApp/BlazorWebApp/Components/Layout/MainLayout.razor]
+[C:/BlazorLearningProject/BlazorWebApp/BlazorWebApp/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-r215xwi2mi
 
-[C:/Users/denis/source/repos/BlazorLearningProject/BlazorWebApp/BlazorWebApp/Components/Layout/NavMenu.razor]
+[C:/BlazorLearningProject/BlazorWebApp/BlazorWebApp/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-ajqwrrfjf8

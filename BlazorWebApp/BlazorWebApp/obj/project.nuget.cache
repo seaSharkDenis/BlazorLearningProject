@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aFSc0AUMCvE=",
+  "dgSpecHash": "0e2xPnhQBs0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\denis\\source\\repos\\BlazorLearningProject\\BlazorWebApp\\BlazorWebApp\\BlazorWebApp.csproj",
+  "projectFilePath": "C:\\BlazorLearningProject\\BlazorWebApp\\BlazorWebApp\\BlazorWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\denis\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.6\\microsoft.aspnetcore.authorization.8.0.6.nupkg.sha512",
     "C:\\Users\\denis\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.6\\microsoft.aspnetcore.components.8.0.6.nupkg.sha512",
