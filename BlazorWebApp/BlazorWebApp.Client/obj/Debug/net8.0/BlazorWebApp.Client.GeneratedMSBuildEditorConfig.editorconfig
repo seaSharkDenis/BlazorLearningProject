@@ -13,19 +13,19 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BlazorWebApp.Client
 build_property.RootNamespace = BlazorWebApp.Client
-build_property.ProjectDir = C:\BlazorLearningProject\BlazorWebApp\BlazorWebApp.Client\
+build_property.ProjectDir = /home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/BlazorWebApp/BlazorWebApp.Client/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\BlazorLearningProject\BlazorWebApp\BlazorWebApp.Client
+build_property.MSBuildProjectDirectory = /home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/BlazorWebApp/BlazorWebApp.Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/BlazorLearningProject/BlazorWebApp/BlazorWebApp.Client/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/BlazorWebApp/BlazorWebApp.Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/BlazorLearningProject/BlazorWebApp/BlazorWebApp.Client/_Imports.razor]
+[/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/BlazorWebApp/BlazorWebApp.Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

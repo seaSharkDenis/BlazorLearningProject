@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xJYe5FfMRAE=",
+  "dgSpecHash": "KFv5R9vLeFbASz6SxG484gpoEiSltPSt+XLEM4m8Sn65GG5P9YJ2NWqVeMeM4fcHKejYPlx8bByh6N5nYOu/8Q==",
   "success": true,
-  "projectFilePath": "C:\\BlazorLearningProject\\Data.Models\\Data.Models.csproj",
+  "projectFilePath": "/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/Data.Models/Data.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

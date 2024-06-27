@@ -1,12 +1,12 @@
 {
   "mainAssemblyName": "BlazorWebApp.Client",
   "resources": {
-    "hash": "sha256-XmPDVIwQfWE513m6luZUGspThpGU3ThSzyJiQebQjF8=",
+    "hash": "sha256-8gafQgzizsphv7u32EvBeuLks3etdYMncE1FYcOcxX8=",
     "jsModuleNative": {
-      "dotnet.native.8.0.5.o8tycwk7ch.js": "sha256-boyHe+0RMZDkzBKGhsrnXPhPg3oZ6UqJnTUzngJPjNY="
+      "dotnet.native.8.0.5.v89bqop0dg.js": "sha256-boyHe+0RMZDkzBKGhsrnXPhPg3oZ6UqJnTUzngJPjNY="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.8.0.5.ljvtik934n.js": "sha256-5oi05+Ql/1JzyAphppAHmbRquli4a3/0XLMa8mQDKn8="
+      "dotnet.runtime.8.0.5.aag9zqzpdj.js": "sha256-5oi05+Ql/1JzyAphppAHmbRquli4a3/0XLMa8mQDKn8="
     },
     "wasmNative": {
       "dotnet.native.wasm": "sha256-b3QtgAqvT5FoNyYgoEYsdE4zF5C1Is6lhQ8VEkROor8="
@@ -208,14 +208,14 @@
       "mscorlib.wasm": "sha256-XvLAB5IyfVSmj5aaGnPwgVFaaZz8jXmbN8WmeopiPBM=",
       "netstandard.wasm": "sha256-TbMssdnuTiKq1gjTPkpgROAuWN0uhvPnagvWR+wAgNs=",
       "System.Private.CoreLib.wasm": "sha256-sscg+Efk8ROPq+q4IVmhShzITuoOYvB8Bsc+Mp9vcSM=",
-      "Data.Models.wasm": "sha256-vRswuxwP+sOeodcfg5srk3W54xRAvsadRrHRc1aKC1E=",
-      "SharedComponents.wasm": "sha256-E61OSsbV4zbsREqcCwPy4BhMz+US2bfoPh47Z8vHjjg=",
-      "BlazorWebApp.Client.wasm": "sha256-ISH+aGP38Zrjx63pA7razT+WUOxlQl8DoBxyIiIgiGA="
+      "Data.Models.wasm": "sha256-spd9PC6ZzcNQjmREVJnBzudS5L9K8XvNmXQ20yD9P8k=",
+      "SharedComponents.wasm": "sha256-M9zZwEYMMzjY/SzHWYoVAOj14yrFxLtwV+q6rHrjSgA=",
+      "BlazorWebApp.Client.wasm": "sha256-QjobGXNnmUN6wdPtAcP5AsIvX97Roaf2RjlfWv1Rfvo="
     },
     "pdb": {
-      "SharedComponents.pdb": "sha256-HW+X7jc7/eks0syCY2AsVz5mPKNfX7q3Uj1fpGSyv8s=",
-      "Data.Models.pdb": "sha256-k1L59OcjitALedGm5XInBvSSeoWzMD9T1jph7fph3n4=",
-      "BlazorWebApp.Client.pdb": "sha256-vkcsQN8L5cw8fWfgk2SWRm7LsBcYnuCGpD9ScwWL2Nw="
+      "SharedComponents.pdb": "sha256-SsjM8X63746QNJtg2EP3hwFx8dJmwd3vMAWih5M9G9I=",
+      "Data.Models.pdb": "sha256-BOPEzUWydbU88RdWOUvSuDTbKebapCT+eNqZwPoiYig=",
+      "BlazorWebApp.Client.pdb": "sha256-mFSwg6cv42SOUOvub4XCdDGjRIk7V8PD1AeVp9pB2Vc="
     }
   },
   "cacheBootResources": true,

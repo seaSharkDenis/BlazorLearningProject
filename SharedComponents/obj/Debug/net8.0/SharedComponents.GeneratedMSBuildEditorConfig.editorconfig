@@ -9,23 +9,23 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = SharedComponents
 build_property.RootNamespace = SharedComponents
-build_property.ProjectDir = C:\BlazorLearningProject\SharedComponents\
+build_property.ProjectDir = /home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/SharedComponents/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\BlazorLearningProject\SharedComponents
+build_property.MSBuildProjectDirectory = /home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/SharedComponents
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/BlazorLearningProject/SharedComponents/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+[/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/SharedComponents/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/BlazorLearningProject/SharedComponents/_Imports.razor]
+[/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/SharedComponents/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/BlazorLearningProject/SharedComponents/Component1.razor]
+[/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/SharedComponents/Component1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50MS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-efyje58yaa

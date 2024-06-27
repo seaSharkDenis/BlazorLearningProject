@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\buildMultiTargeting\SharedComponents.props" />
+  <Import Project="../buildMultiTargeting/SharedComponents.props" />
 </Project>

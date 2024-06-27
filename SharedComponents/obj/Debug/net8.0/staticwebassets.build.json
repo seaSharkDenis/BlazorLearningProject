@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fpybLX9MBa+JJdxFVDhPwssNuWY1+jYGd8q92/t8v3g=",
+  "Hash": "ZDJL8HDQHL+mqooAA2wCD4KsI3oqbGoDIjPsdx3LZcc=",
   "Source": "SharedComponents",
   "BasePath": "_content/SharedComponents",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "SharedComponents\\wwwroot",
+      "Name": "SharedComponents/wwwroot",
       "Source": "SharedComponents",
-      "ContentRoot": "C:\\BlazorLearningProject\\SharedComponents\\wwwroot\\",
+      "ContentRoot": "/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/SharedComponents/wwwroot/",
       "BasePath": "_content/SharedComponents",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\BlazorLearningProject\\SharedComponents\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SharedComponents.styles.css",
+      "Identity": "/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/SharedComponents/obj/Debug/net8.0/scopedcss/bundle/SharedComponents.styles.css",
       "SourceId": "SharedComponents",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\BlazorLearningProject\\SharedComponents\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/SharedComponents/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/SharedComponents",
       "RelativePath": "SharedComponents.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\BlazorLearningProject\\SharedComponents\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SharedComponents.styles.css"
+      "OriginalItemSpec": "/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/SharedComponents/obj/Debug/net8.0/scopedcss/bundle/SharedComponents.styles.css"
     },
     {
-      "Identity": "C:\\BlazorLearningProject\\SharedComponents\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SharedComponents.bundle.scp.css",
+      "Identity": "/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/SharedComponents/obj/Debug/net8.0/scopedcss/projectbundle/SharedComponents.bundle.scp.css",
       "SourceId": "SharedComponents",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\BlazorLearningProject\\SharedComponents\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/SharedComponents/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/SharedComponents",
       "RelativePath": "SharedComponents.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\BlazorLearningProject\\SharedComponents\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SharedComponents.bundle.scp.css"
+      "OriginalItemSpec": "/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/SharedComponents/obj/Debug/net8.0/scopedcss/projectbundle/SharedComponents.bundle.scp.css"
     },
     {
-      "Identity": "C:\\BlazorLearningProject\\SharedComponents\\wwwroot\\background.png",
+      "Identity": "/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/SharedComponents/wwwroot/background.png",
       "SourceId": "SharedComponents",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\BlazorLearningProject\\SharedComponents\\wwwroot\\",
+      "ContentRoot": "/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/SharedComponents/wwwroot/",
       "BasePath": "_content/SharedComponents",
       "RelativePath": "background.png",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\background.png"
+      "OriginalItemSpec": "wwwroot/background.png"
     },
     {
-      "Identity": "C:\\BlazorLearningProject\\SharedComponents\\wwwroot\\exampleJsInterop.js",
+      "Identity": "/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/SharedComponents/wwwroot/exampleJsInterop.js",
       "SourceId": "SharedComponents",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\BlazorLearningProject\\SharedComponents\\wwwroot\\",
+      "ContentRoot": "/home/denis-ndiritu/Documents/GitHub/MyFirstBlazor/SharedComponents/wwwroot/",
       "BasePath": "_content/SharedComponents",
       "RelativePath": "exampleJsInterop.js",
       "AssetKind": "All",
@@ -90,7 +90,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+      "OriginalItemSpec": "wwwroot/exampleJsInterop.js"
     }
   ]
 }
